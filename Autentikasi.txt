@@ -1,0 +1,6 @@
+username : amos123     password : amos123     - role : HRD - jabatan :HRD 
+username : nepy123     password : nepy123     - role : pegawai - jabatan :Dosen
+username : eduardo123     password : eduardo123 - role : WR2 - jabatan :Wakil Rektor Bidang Keuangan dan Sumber Daya
+username : dina123     password : dina123    - role : WR3 - jabatan :Wakil Rektor Bidang Akademik dan Kemahasiswaan
+username : rodes123     password : rodes123  - role : Pegawai - jabatan :Ka.Prodi Teknik Informatika
+username : rikky123     password : rikky123  - role : Pegawai - jabatan :Dosen
